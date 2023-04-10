@@ -2,34 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Cole Feely
+      value: Aman
     - name: LinkedIn
-      value: www.linkedin.com/in/cole-feely
+      value: https://www.linkedin.com/in/amanaman/
     - name: Statement
-      value: Commonwealth Honors College student with a background as both a Software and Sales Engineer looking to bridge the gap between engineering and innovative technology with businesses and people
-
-
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor of Science
-      institution: University of Massachusetts Amherst
-      year: Fa 2019- Spr 2023
-      description:
-        - Computer Engineering Major
-        - Economics Minor
-        - Commonwealth Honors College
-        - GPA 3.8
+      value: Working to solve business problems one at a time.
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: OEM Sales Engineering Intern
-      institution: Dell Technologies
-      year: June- Aug 2022
-      value: Austin, TX
+    - title: Data Scientist
+      institution: Hannover Re
+      year: December 2022 - Present
+      location: Dublin, Ireland
       description:
         - Created a tool for Sales Engineers and Technical Consultants to quickly discern which GPU was best for their client’s intended workload with Dell Servers; sparked a greater conversation and project across the company
         - Worked with leading GPU brands like NVIDIA, AMD and Intel to analyze their products and their applications; Interviewed and networked with client companies to further gauge market opinions and happenings
@@ -71,6 +57,19 @@
       description: 
         - Apart of the COE's peer mentor program where I give undergraduate students advice on both their classes and adjusting to College life
         - We also organize events and work with other groups to raise awareness of resources available to students
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Science
+      institution: University of Massachusetts Amherst
+      year: Fa 2019- Spr 2023
+      description:
+        - Computer Engineering Major
+        - Economics Minor
+        - Commonwealth Honors College
+        - GPA 3.8
 
 
 - title: Projects
