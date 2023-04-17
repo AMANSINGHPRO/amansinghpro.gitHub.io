@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Aman
 middle_name: 
 last_name:
-email: colehfeely@gmail.com
+email: aman.data@icloud.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website
 footer_text: >
@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -114,9 +114,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Concrete Paradise # blog_name will be displayed in your blog page
+blog_name: The Geometric Mind # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a place where I share my thoughts on my hobbies 
+blog_description:  Exploring AI’s potential through cutting-edge research and insights
 permalink: /blog/:year/:title/
 
 # Pagination
