@@ -125,12 +125,13 @@
 - title: Relevant Courses
   type: nested_list
   contents:
-      - title: Computer Science
+      - title: Data Analytics
         items: 
-          - Artificial Intelligence
+          - Artificial Intelligence & Machine Learning
           - Advanced Programming
           - Systems Programming 
-      - title: Computer Engineering
+          - Statistics
+      - title: Electronics and Communications Engineering
         items:
           - Quantum Computing
           - Artificial Intelligence Based Network Design
@@ -152,49 +153,20 @@
     - title: Programming Languages
       items: 
         - Python
-        - JavaScript
         - SQL
-        - Java
-        - Assembly
-        - C
-        - C++ 
-        - Verilog
-        - CSS 
-        - Bootstrap
         - Bash
         - Git
         - Awk
     - title: Software and Environments
       items: 
         - Linux OS
-        - AutoDesk Fusion360
-        - Jekyll
-        - Ember.js
-        - Node.js
-        - MATLAB
+        - PyTorch, Tensorflow, Keras
+        - AWS (Amazon Web Services)
+        - Microsoft Azure
+        - Anaconda
+        - JupyterLab
         - GitHub
-        - Quartus
-        - Qsys
-        - Excel
-    - title: Electronics
-      items:
-        - ARM Hardware
-        - Nios
-        - DE1
-        - FPGA
-        - Microprocessors
-        - Basic PCB design
-        - AtMega Chips
-        - Arduino
-        - Raspberry Pi
-    - title: Hardware/ Work Tools
-      items:
-        - Soldering
-        - Metal Welding
-        - Multimeter
-        - Oscilloscope
-        - Function Generator
-- title: Other Interests
+        - Microsoft VS Code
   type: list
   contents:
-    - Weightlifting, Songwriting, Music, Guitar, Reading, Raspberry Pi Projects, Cooking, Chess, Wellness, Boxing, Running
+    - Formula 1, Badminton
