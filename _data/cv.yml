@@ -13,51 +13,22 @@
   type: time_table
   contents:
     - title: Data Scientist
-      institution: Hannover Re
+      institution: Hannover Re, Dublin, Ireland
       year: December 2022 - Present
-      location: Dublin, Ireland
       description:
-        - Created a tool for Sales Engineers and Technical Consultants to quickly discern which GPU was best for their client’s intended workload with Dell Servers; sparked a greater conversation and project across the company
-        - Worked with leading GPU brands like NVIDIA, AMD and Intel to analyze their products and their applications; Interviewed and networked with client companies to further gauge market opinions and happenings
-        - Presented this tool, my pitch and predictions according to recent market trends to multiple executive teams across the company
-        - Attended Executive Board client meetings and contributed to conversations on go-to market strategies
-        - Created a reference tool for Technical Consultants when working with clients to quickly determine which other products are needed for the solution to eliminate unnecessary inquiries with other parts of the company, saving time and improving profits
+        -	Developed end to end machine learning services for accessing/declining applications for Life and Health business. Implemented data science lifecycle for electronic health records including data cleaning, exploratory data analysis, machine learning model development using GBDT algorithms, feature engineering, optimisation etc. Technologies used include AWS stack, AWS Lambda, API Gateway, Microservices, Service oriented architecture, AutoML etc. Product developed was a “green field” award winning project in financial services aimed to significantly reduce time spent by underwriters on accessing risk profiles of thousands of cases.
 
 
-    - title: Software Engineering Co-op
-      institution: Microshare
-      year: May 2020- Sept. 2021
-      value: Haverill, MA
+    - title: Senior Data Scientist
+      institution: SleepScore Labs, Dublin, Ireland
+      year: Aug 2021- Oct. 2022
       description:
-        - Built both a front-end Ember application and back-end API to query an SQL database with critical company information using SQL, JavaScript, Java, CSS, Bootstrap, handlebars and HTML; hosted via the Azure Cloud
-        - The app was built for developers to easily manage back-end data using a well-designed and comfortable front-end interface
-        - Built API environments for clients to interact with their data on the Microshare data lake
-        - Created the Microshare documentation website used by clients globally to help their developers use their IoT solution
-
-    - title: Electrical and Computer Engineering Tutor and Teaching Assistant
-      institution: University of Massachusetts Amherst
-      year: Sept. 2021- PRES
-      value: Amherst, MA
-      description: 
-        - Selected by Professor to host weekly office hours to answer students’ various questions on assignments in MATLAB, EXCEL, other programming languages and electronics design
-        - Classes include- ECE 124 and ECE 201
-
-    - title: Co-Lead Electronics and Battery Management Engineer
-      institution: Univesity of Massachusetts Amherst Robotics
-      year: Nov. 2020- Jan. 2021
-      value: Amherst, MA
-      description:
-        - Team member of the student-organized robotics team that competes in the NASA Lunar Robotics competition; building a fully autonomous robot that can search through sand for intended objects and return to base
-        - Lead designer of the robot’s battery management system; designing the distribution of power from LiPo batteries to the various motors, microcontrollers, sensors and servos governed by electronics to prevent fire hazards
-
-    - title: College of Engineering Peer Mentor 
-      institution: University of Massachusetts Amherst
-      year: Jan. 2021- PRES
-      value: Amherst, MA
-      description: 
-        - Apart of the COE's peer mentor program where I give undergraduate students advice on both their classes and adjusting to College life
-        - We also organize events and work with other groups to raise awareness of resources available to students
-
+        - Developed Sleep Phenotype Clustering tool using several state of the art dimensionality reduction techniques including UMAP, t-sne etc. paired with clustering algorithms including DBSCAN, DPGMM etc. Tool helped multiple teams in identifying user phenotype which led sleep science team to focus on users at risk and marketing team to recommend relevant products which improve sleep.
+        - Developed end to end platform for screening and flagging of sleep disorders among population using machine learning algorithms including LightGBM, XGBoost etc. Followed Data Science Lifecycle and MLOps practices, managed models using version control, exposed models as REST API to be used in application in real-time mode.
+        - Sleep Efficiency Prediction Tool Developed a tool to predict sleep efficiency among population of users tracking various sleep parameters using a non-contact technology. Models deployed in cloud using Microsoft Azure. 
+        - Researched and published in sleep medicine Journals including Sleep 2022 and European Sleep Research Society. Analysed, visualised and performed inferential statistics on objective data from app users to scientifically validate patters among population. Used modules including statsmodels, seaborn etc and performed hypothesis tests for significance.
+        - Developed A/B testing tools for marketing and product team to validate and test various hypothesis in user data to make decisions scientifically. Product team used the tool to find gaps in app user journey. Worked with web user data from Amplitude to help teams make data driven decisions.
+        - Analysed, visualised and presented data from hundreds of thousands of users, on ad-hoc requests from marketing team to help them understand user behaviour and run business accordingly. Co-Developed end of year report for an external partner comparing differences between sleeping patterns among users pre and post pandemic.
 
 - title: Education
   type: time_table
